@@ -1,5 +1,7 @@
 #  Data Cleaning project in SQL
 
+ The goal of this project is to do the inital Data Exploration and cleaning using SQL.
+ 
  I have used Microsoft SQL Server Management Studtio to import and clean the Nashville Housing Data in which is in Excel.
 
 There were a number of issues in this dataset that were handled using various SQL concepts such as subqueries,CTE,Window funcation and others.
