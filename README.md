@@ -4,7 +4,9 @@
  
  I have used Microsoft SQL Server Management Studtio to import and clean the Nashville Housing Data in which is in Excel.
 
-There were a number of issues in this dataset that were handled using various SQL concepts such as subqueries,CTE,Window funcation and others.
+There were a number of issues in this dataset that were handled using 
+various SQL concepts such as subqueries,CTE,WINDOW function and other clauses such a GROUP BY, SUBSTRING,CASE WHEN etc.
+
 Below is the list of issues and the type of DATA QUALITY issue in the dataset that were handled.
 
 
