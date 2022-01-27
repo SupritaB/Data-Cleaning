@@ -1,6 +1,6 @@
 #  Data Cleaning project in SQL
 
-The Data is Housing Data in Excel. I have used Microsoft SQL Server Management Studtio to import and clean the Data.
+The Data is Nashville Housing Data in Excel. I have used Microsoft SQL Server Management Studtio to import and clean the Data.
 
 There were a number of issues in this dataset that were handled using various SQL concepts such as subqueries,CTE,Window funcation and others.
 Below is the list of issues and the type of DATA QUALITY issue in the dataset that were handled.
