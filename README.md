@@ -1,12 +1,12 @@
 #  Data Cleaning project in SQL
 
-The Data is Nashville Housing Data in Excel. I have used Microsoft SQL Server Management Studtio to import and clean the Data.
+ I have used Microsoft SQL Server Management Studtio to import and clean the Nashville Housing Data in which is in Excel.
 
 There were a number of issues in this dataset that were handled using various SQL concepts such as subqueries,CTE,Window funcation and others.
 Below is the list of issues and the type of DATA QUALITY issue in the dataset that were handled.
 
 
-   Problem                                               DATA QUALITY ISSUE
+   Problem                                               DATA QUALITY ISSUE.     
 1. Incorrect datatype of the SaleDate Column ---           (CORRECTNESS)
 2. Null values in the Property Address--                   (COMPLETENESS)
 3. PropertyAddress column having combined Address and City-- (RELEVANCY)
